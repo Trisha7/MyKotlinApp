@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyKotlinApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Click Me!</string>
+    <string name="previous">Go Back</string>
+
+    <string name="hello_first_fragment">Hello there!\n This is my Kotlin App on Start.Ng</string>
+    <string name="hello_second_fragment">My Start.NG  Info:</string>
+    <string name="Fname">Idikwu Ahigwu Patricia</string>
+    <string name="slackName">Trisha</string>
+    <string name="Email">idikwu2patricia@gmail.com</string>
+    <string name="Track">Mobile</string>
+</resources>
